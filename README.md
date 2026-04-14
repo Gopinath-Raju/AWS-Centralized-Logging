@@ -140,25 +140,25 @@ This project demonstrates:
 ## Screenshots
 
 ### 1. S3 Bucket Created
-![S3 Bucket](screenshots/01-S3-Bucket-3.jpg)
+![S3 Bucket](screenshots/01-S3-Bucket.jpg)
 
 ### 2. CloudTrail Created
-![CloudTrail Created](screenshots/02-CloudTrail-Created-4.jpg)
+![CloudTrail Created](screenshots/02-CloudTrail-Created.jpg)
 
 ### 3. CloudWatch Log Group
-![CloudWatch Log Group](screenshots/03-CloudWatch-LogGroup-6.jpg)
+![CloudWatch Log Group](screenshots/03-CloudWatch-LogGroup.jpg)
 
 ### 4. CloudTrail Log Stream
-![CloudTrail Log Stream](screenshots/03b-LogStream-5.jpg)
+![CloudTrail Log Stream](screenshots/03b-LogStream.jpg)
 
 ### 5. Metric Filter Created
-![Metric Filter](screenshots/04-Metric-Filter-7.jpg)
+![Metric Filter](screenshots/04-Metric-Filter.jpg)
 
 ### 6. Alarm Created
-![Alarm Created](screenshots/05-Alarm-Created-8.jpg)
+![Alarm Created](screenshots/05-Alarm-Created.jpg)
 
 ### 7. SNS Subscription Confirmed
-![SNS Confirmed](screenshots/06-SNS-Confirmed-9.jpg)
+![SNS Confirmed](screenshots/06-SNS-Confirmed.jpg)
 
 ### 8. Alarm Triggered
 ![Alarm In Alarm](screenshots/07-Alarm-InAlarm.jpg)
@@ -167,7 +167,7 @@ This project demonstrates:
 ![Alert Email](screenshots/07b-Alert-Email.jpg)
 
 ### 10. CloudTrail Logs Stored in S3
-![CloudTrail Logs in S3](screenshots/08-CloudTrail-S3-Logs-2.jpg)
+![CloudTrail Logs in S3](screenshots/08-CloudTrail-S3-Logs.jpg)
 
 ---
 
