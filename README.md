@@ -164,7 +164,7 @@ This project demonstrates:
 ![Alarm In Alarm](screenshots/07-Alarm-InAlarm.jpg)
 
 ### 9. Alert Email Received
-![Alert Email](screenshots/07b-Alert-Email.jpg)
+![Alert Email](screenshots/07b-Alert-Email.jpeg)
 
 ### 10. CloudTrail Logs Stored in S3
 ![CloudTrail Logs in S3](screenshots/08-CloudTrail-S3-Logs.jpg)
